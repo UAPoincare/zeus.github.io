@@ -181,7 +181,7 @@ b { font-weight: bold; }
 .nav__list_es .nav__link { padding: 0 11px; font-size: 18px; line-height: 1; }
 .nav__list_es .nav__link span { vertical-align: middle; }
 .nav__item { display: inline-block; vertical-align: top; font-size: 0; height: 100%; }
-.nav__link { position: relative; display: inline-block; vertical-align: middle; padding: 18px 11px 14px; height: 100%; font-size: 20px; color: #fff; text-decoration: none; -webkit-transition: background 0.3s; transition: background 0.3s; }
+.nav__link { position: relative; display: inline-block; vertical-align: middle; padding: 18px 7px 14px; height: 100%; font-size: 16px; color: #fff; text-decoration: none; -webkit-transition: background 0.3s; transition: background 0.3s; }
 .nav__link:before { content: ""; display: inline-block; height: 100%; vertical-align: middle; width: 0; }
 .nav__link:hover { background: rgba(255, 255, 255, 0.25); }
 .nav__link_sm { max-width: 190px; font-size: 17px; padding: 0 11px; }
